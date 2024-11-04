@@ -1,6 +1,5 @@
 void setup() { 
 
-
   //configure pin 2 as an input and pin 3,4,5 as a OUTPUT 
   pinMode(2, INPUT); 
   pinMode(3, OUTPUT); 
