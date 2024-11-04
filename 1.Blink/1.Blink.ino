@@ -1,5 +1,6 @@
 
- 
+//Goal: Making a LED BLINK 
+//Main theme: Digital Output 
 
 void setup() { 
 

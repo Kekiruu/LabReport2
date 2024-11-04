@@ -1,3 +1,6 @@
+//Goal: PB not pressed: Red and Green LEDs on. PB pressed: Red and Blue LEDs on. 
+
+//Main theme: digital input/output 
 void setup() { 
 
   //configure pin 2 as an input and pin 3,4,5 as a OUTPUT 

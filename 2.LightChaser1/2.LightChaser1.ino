@@ -1,3 +1,7 @@
+//Goal: Making a LED light Chaser 
+
+//Main theme: Digital Output 
+
 void setup() { 
 
   // initialize digital pin 2 as an output. 

@@ -1,4 +1,6 @@
+//Goal: Making a LED light Chaser go back and forward 
 
+//Main theme: Digital Output 
 void setup() { 
   // initialize digital pin 2,3,4,5 as an output. 
   pinMode(2, OUTPUT); 

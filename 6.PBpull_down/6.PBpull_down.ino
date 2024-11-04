@@ -1,3 +1,6 @@
+//Goal: making a push button that’s pull down 
+
+//Main theme: Digital Input 
 void setup() { 
   //start serial connection 
   Serial.begin(9600); 

@@ -1,3 +1,8 @@
+//Goal: PB not pressed: RGB white PB pressed: RGB off 
+
+//Main theme: digital input/output 
+
+ 
 void setup() { 
 
 

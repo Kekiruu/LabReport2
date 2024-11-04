@@ -1,3 +1,6 @@
+//Goal: make a color with the RGB 
+
+//Main theme: Analog Ouput 
 void setup() { 
 
   //configure d pin 3,4,5 as a OUTPUT 

@@ -1,3 +1,6 @@
+//Goal: making a push button with pull-up 
+
+//Main theme: Digital pull-up 
 void setup() { 
   //start serial connection 
   Serial.begin(9600); 
